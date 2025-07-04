@@ -5,8 +5,9 @@ Dicen que es la peor, pero yo creo que lo dicen porque es exigente.
 Aprendí mucho, lo que más me costó fue el parcial. No se asusten con las cosas que dicen, los profesores y ayudantes tienen mucha predisposición para resolver dudas, pero tampoco les van a hacer tu trabajo.
 
 
-##Consejos:
--No dejes los trabajos prácticos para último momento, aunque parezcan fáciles (el 1ro) , van a ir surgiendo muchas dudas que es mejor preguntarselas a los profesores.
+## Consejos:
+
+- No dejes los trabajos prácticos para último momento, aunque parezcan fáciles (el 1ro) , van a ir surgiendo muchas dudas que es mejor preguntarselas a los profesores.
 
 ### TP1
 Aplicá TDD, aunque pienses que es más fácil de otra forma o no tenes tiempo para entender, realmente te va a ayudar para el resto de la materia, te va a facilitar las pruebas y la estructura del codigo. Después de todo, ese es el fin del tp.
