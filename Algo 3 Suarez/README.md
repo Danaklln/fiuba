@@ -25,10 +25,12 @@ Se puede entregaren lápiz (tengo entendido). Si te piden código sin especifica
 Llevate un reloj (aunque te van diciendo la hora), hojas grandes (A4 lisas), colores y algo para apoyar (el espacio de la mesa puede jugar en contra nuestro).
 
 El 1er parcial suele ser complicado, tener 3 puntos y asustar. Asustate, es mejor que andar relajado para el segundo.
+
 El 1er recu es más sencillo. Si desaprobas el primero, metele con todo al segundo, es más probable que lo apruebes que el 3ero.
+
 El 2do recu te mata, practicá el de las naves, mil veces, como te salga. Pedile corrección al profe.
 
-Te toman las lecturas obligatorias, ejerciciós de modelado uml y puede haber un punto adicional donde tengas que interpretar un uml dado, decir si rompe algún pricipio, compararlo con otro y decidir con cual te quedarias.
+Te toman las lecturas obligatorias, ejercicios de modelado uml y puede haber un punto adicional donde tengas que interpretar un uml dado, decir si rompe algún pricipio, compararlo con otro y decidir con cual te quedarias.
 
 ### TP2
 Buscá un grupo de gente que sepa, es un tp que dura 5 semanas donde cada semana hay que cumplir con ciertas cosas. 
