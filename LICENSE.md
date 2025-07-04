@@ -6,7 +6,6 @@ Este repositorio contiene trabajos realizados por **Dana A. Kölln** durante su 
 ✔ Podés usar, copiar, adaptar y compartir este contenido **con fines educativos**.
 
 ## Condiciones
-- 📌 **Atribución**: Debés mencionar a la autora original (Dana A. Kölln) si usás parte del contenido.
 - 💰 **Prohibido uso comercial**: No está permitido utilizar este material con fines comerciales o lucrativos sin permiso.
 - 🎓 **Ética académica**: No utilices este contenido para cometer fraude académico (como presentarlo como propio en entregas, exámenes o trabajos prácticos).
 
