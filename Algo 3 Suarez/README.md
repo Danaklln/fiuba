@@ -2,7 +2,7 @@
 
 
 Dicen que es la peor, pero yo creo que lo dicen porque es exigente.
-Aprendí mucho, lo que más me costó fue el parcial. No se asusten con las cosas que dicen, los profesores y ayudantes tienen mucha predisposición para resolver dudas, pero tampoco les van a hacer tu trabajo.
+Aprendí mucho, lo que más me costó fue el parcial. No se asusten con las cosas que dicen, los profesores y ayudantes tienen mucha predisposición para resolver dudas, pero tampoco les van a hacer sus trabajo.
 
 
 ## Consejos:
